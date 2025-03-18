@@ -16,7 +16,7 @@ public class HelloController {
 
     @GetMapping("hello")
     public String getHello(){
-        String password = "test1234"
+        String password = "test1234579545454545"
         return myConfiguration.getUsername();
     }
 
